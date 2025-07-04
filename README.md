@@ -38,6 +38,22 @@ modu kullanılarak üç farklı renk (ID 1 – 2 – 3) öğreniliyor ve kamera 
 | B | D9  |
 
 ---
+## 🔗 Kaynaklar / Daha Fazla Okuma
+
+- 🌐 [Gravity: HuskyLens AI Vision Sensor – DFRobot Wiki](https://wiki.dfrobot.com/HUSKYLENS_V1.0_SKU_SEN0305_SEN0336)  
+ Color Recognition ve Learn Multiple modlarının nasıl çalıştığını anlatan resmi dokümantasyon.
+
+- 💾 [HUSKYLENSArduino – Arduino Library (GitHub)](https://github.com/HuskyLens/HUSKYLENSArduino)  
+ Arduino IDE için resmi HuskyLens kütüphanesi ve örnek skeçler.
+
+- 🛒 [HuskyLens Ürün Sayfası – DFRobot](https://www.dfrobot.com/product-1922.html)  
+ Teknik özellikler, pin açıklamaları ve çevrim içi satın alma.
+
+- 📄 [HuskyLens WIKI Document (PDF)](https://github.com/HuskyLens/HUSKYLENSArduino/raw/master/Documentation/HuskyLens%20User%20Manual.pdf)  
+ Kameranın tüm modları ve yapılandırma ayarlarını detaylı anlatan resmi PDF.
+
+- 🧠 [HuskyLens Protocol.md – Komut Seti (GitHub)](https://github.com/HuskyLens/HUSKYLENSArduino/blob/master/Protocol.md)  
+ Düşük seviye seri haberleşme komutları ve veri yapıları.
 
 ## 📑 Kurulum
 
